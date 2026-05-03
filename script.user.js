@@ -3,6 +3,7 @@
 // @namespace    https://github.com/PeteHerniman/qe-upgrade-ranker
 // @version      1.0
 // @description  Calculates upgrade % per roll on Questionably Epic
+// @author       Pete Herniman
 // @match        https://www.questionablyepic.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=questionablyepic.com
 // @grant        none
